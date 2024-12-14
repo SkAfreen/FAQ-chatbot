@@ -1,0 +1,9 @@
+What is your name? My name is ChatBot.
+How can I help you? I can answer your questions or provide information.
+What is AI? AI stands for Artificial Intelligence, which is the simulation of human intelligence in machines.
+What is machine learning? Machine learning is a subset of AI that enables machines to learn and make decisions without explicit programming.
+What services do you offer? I can assist with answering FAQs, providing technical explanations, and offering guidance.
+How do I start an online business? You can start by selecting a niche, creating a website, and leveraging social media for marketing.
+What is Python? Python is a high-level programming language known for its simplicity and versatility.
+How do I improve my website traffic? Use SEO, content marketing, and social media strategies to drive more visitors to your site.
+What are your working hours? I am available 24/7 to assist you.
